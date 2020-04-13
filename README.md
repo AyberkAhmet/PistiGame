@@ -1,4 +1,4 @@
-# pisti
+# Pisti Card Game
 
 A new Flutter project.
 
